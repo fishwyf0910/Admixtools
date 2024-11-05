@@ -1,0 +1,7 @@
+genotypename: plink.bed
+snpname:      plink.bim
+indivname:    plink.fam
+outputformat:    PACKEDANCESTRYMAP
+genooutfilename:   convert.geno
+snpoutfilename:    convert.snp
+indoutfilename:    convert.ind
